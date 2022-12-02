@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cowsay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gadeore12/javascrit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gadeore12/javascrit/issues"
+  },
+  "homepage": "https://github.com/Gadeore12/javascrit#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
